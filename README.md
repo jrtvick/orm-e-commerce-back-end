@@ -34,7 +34,7 @@ https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide
 
 ## Usage
 
-![Tyler Vick's ORM E-Commerce Back End video](./assets/)
+[Untitled_ Jun 10, 2023 4_13 PM.webm](https://github.com/jrtvick/orm-e-commerce-back-end/assets/130930081/5614c266-6f53-49e3-b9b2-09b8b57ecf22)
 
 The URL of the GitHub repository: https://github.com/jrtvick/orm-e-commerce-back-end.git
 
