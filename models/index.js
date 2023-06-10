@@ -13,14 +13,14 @@ Category.hasMany(Product, {
   foreignKey: 'category_id',
 })
 // Products belongToMany Tags (through ProductTag)
-Product.belongToMany(Tag, {
+Product.belongsToMany(Tag, {
   through: {
     model: ProductTag
   }
 })
 
 // Tags belongToMany Products (through ProductTag)
-Tag.belongtoMany(Product, {
+Tag.belongsToMany(Product, {
   through: {
     model: ProductTag
   }
