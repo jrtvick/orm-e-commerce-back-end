@@ -34,7 +34,8 @@ https://coding-boot-camp.github.io/full-stack/mysql/mysql-installation-guide
 
 ## Usage
 
-[Untitled_ Jun 10, 2023 4_13 PM.webm](https://github.com/jrtvick/orm-e-commerce-back-end/assets/130930081/5614c266-6f53-49e3-b9b2-09b8b57ecf22)
+[ORM-e-commerce-back-end-video-walkthrough.webm](https://github.com/jrtvick/orm-e-commerce-back-end/assets/130930081/a6b53812-c516-4ac6-a81d-57fa82f75c60)
+
 
 The URL of the GitHub repository: https://github.com/jrtvick/orm-e-commerce-back-end.git
 
