@@ -77,7 +77,7 @@ router.delete("/:id", async (req, res) => {
       res.status(404).json({ message: "No category found with that id!" });
       return;
     }
-    return res.status(200).json({ message: "Category deleted!" });
+    res.status(200).json({ message: "Category deleted!" });
   } catch (error) {
     res.status(500).json(error);
   }
